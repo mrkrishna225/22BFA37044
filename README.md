@@ -1,3 +1,7 @@
 # 22BFA37044
 
-College coursework archive. Contains a frontend project zip from class assignments.
+College coursework archive. Contains a zipped frontend project from class assignments.
+
+## Contents
+
+- `FrontEnd.zip` — the project files
